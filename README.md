@@ -5,7 +5,7 @@ This CPU is entirely my own design, built from the ground up using Verilog. And 
 
 If you're interested in the full version of the software or have any questions, feel free to reach out to me:
 
-- Email: [danjie.tang@outlook.com](danjie.tang@outlook.com)
+- Email: danjie.tang@outlook.com
 - LinkedIn: [Danjie Tang](https://www.linkedin.com/in/danjie-tang/)
 
 DESim demo:
