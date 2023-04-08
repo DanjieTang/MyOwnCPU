@@ -1,5 +1,5 @@
 # MyOwnCPU
-This CPU is entirely my own design, built from the ground up using Verilog. And I mean it! Additionally, it includes an assembly language program that showcases its unique features.
+This project is an extension of ECE243 lab 8, which has been augmented with several new features, including pop, push, bl, cmp, and bit shifting operations. In addition, the project includes an assembly language program that showcases these novel functionalities.
 
 ## Contact Me
 
