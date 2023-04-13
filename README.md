@@ -1,5 +1,5 @@
 # MyOwnCPU
-This project is my own CPU, which accepts a set of assembly language programs outlined in the PDF document titled 'MyCPUDocumentation.' Furthermore, the project comprises an assembly language program that exhibits the novel functionalities of the CPU.
+This project is my own CPU, which accepts a set of assembly language programs outlined in the PDF document titled 'MyCPUDocumentation.' Furthermore, the project comprises an assembly language program that exhibits the novel functionalities of the CPU. This project is derived from the course ECE243 lab 8 processor.
 
 ## Contact Me
 
